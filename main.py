@@ -18,7 +18,8 @@ print("""Masukkan operasi :
         2: penguarangan
         3: pembagian
         4: perkalian
-        5: pembagian modulus""")
+        5: Modulus""")
+
 operasi = int(input("Masukkan operasi:"))
 
 # melakukan operasi terhadap angkanya
